@@ -1,0 +1,49 @@
+/* CSS files add styling rules to your content */
+
+h1 {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 2% 2% 2% 4%;
+  background-color: #010000;
+  width: 100%;
+  font-style: normal;
+  color: #373fff;
+}
+
+body {
+  position: relative;
+  top: 0;
+  left: 2%;
+  width: 75%;
+  height: 80%;
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  padding: 100px 0 100px 0;
+}
+.regImage{
+  width="42" 
+  height="42" 
+  style="vertical-align:middle"
+}
+
+a:hover{
+  color: red;
+}
+
+
+
+footer {
+  background-color: orange;
+  position: fixed;
+  left: 0%;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  overflow: hidden;
+/*   background-color: blue; */
+  border-color: red;
+  border-width: 5px;
+  border-style: solid;
+
+}
